@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ashatat/testgatspy
+  repo: fadeomar2011/testCms
   branch: master
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
